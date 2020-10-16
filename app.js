@@ -29,7 +29,6 @@
 //         console.log(err);
 //     })
 
-//do the same thing using async/await syntax
 
 let math = doMath = async () => {
     try {
